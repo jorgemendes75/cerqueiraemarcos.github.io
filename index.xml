@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cerqueira e Marcos</title>
+    <link>http://www.cerqueiraemarcos.pt/</link>
+    <description>Recent content on Cerqueira e Marcos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Mon, 18 Jan 2016 21:44:59 +0000</lastBuildDate>
+    <atom:link href="http://www.cerqueiraemarcos.pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>primeiro</title>
+      <link>http://www.cerqueiraemarcos.pt/post/primeiro/</link>
+      <pubDate>Mon, 18 Jan 2016 21:44:59 +0000</pubDate>
+      
+      <guid>http://www.cerqueiraemarcos.pt/post/primeiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://www.cerqueiraemarcos.pt/about/</link>
+      <pubDate>Mon, 18 Jan 2016 21:41:13 +0000</pubDate>
+      
+      <guid>http://www.cerqueiraemarcos.pt/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;título:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Título&lt;/h2&gt;
+
+&lt;p&gt;Exemplo Site Hugo&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
